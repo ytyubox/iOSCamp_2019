@@ -3,6 +3,10 @@
 import UIKit
 import PlaygroundSupport
 
+
+let names =
+		["Love", "Andrew", "Red", "Lila", "Faith", "Lily", "Art", "Robert", "Kayla", "Justice", "Hope", "Madison", "Lucas", "Alexis", "Lisa", "Vanessa", "Kimberly", "Amber", "Jack", "Ann", "Taylor", "Scott", "Amelia"]
+
 struct Contact {
 	let name:String
 	var phone:Phone
@@ -12,8 +16,6 @@ struct Contact {
 		case Home(String)
 		case defaults
 	}
-	private static let names =
-		["Love", "Andrew", "Red", "Lila", "Faith", "Lily", "Art", "Robert", "Kayla", "Justice", "Hope", "Madison", "Lucas", "Alexis", "Lisa", "Vanessa", "Kimberly", "Amber", "Jack", "Ann", "Taylor", "Scott", "Amelia"]
 	
 	private static var contacts : [Contact] = names.sorted().map{ Contact.init(name: $0, phone: .defaults)}
 	private static func getKVHashMap()-> [String:[Contact]]{
