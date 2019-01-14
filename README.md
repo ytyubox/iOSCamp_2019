@@ -9,3 +9,5 @@ This is a repo for training people in GoodIdeal's studio Taiwan.
    理解使用錯誤處理方式、如何使用報錯
 3. 自動約束，理解錨定點的作用，使用連環錨定來製作
   ![](https://github.com/ytyubox/iOSCamp_2019/blob/master/游諭內容：UI相關.playground/Pages/自動約束示意圖.png?raw=true) 
+4. 索引表格，理解由一維陣列產生有序的二維陣列方法，實作索引式表格
+  ![](https://github.com/ytyubox/iOSCamp_2019/blob/master/游諭內容：UI相關.playground/Pages/有索引的表格.png?raw=true)
