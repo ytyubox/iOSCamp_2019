@@ -11,3 +11,5 @@ This is a repo for training people in GoodIdeal's studio Taiwan.
   ![](https://github.com/ytyubox/iOSCamp_2019/blob/master/游諭內容：UI相關.playground/Pages/自動約束示意圖.png?raw=true) 
 4. 索引表格，理解由一維陣列產生有序的二維陣列方法，實作索引式表格
   ![](https://github.com/ytyubox/iOSCamp_2019/blob/master/游諭內容：UI相關.playground/Pages/有索引的表格.png?raw=true)
+5. 處理JSON解析時可能會有多種以上的可能類型，使用泛型製作自用函式
+  ![](https://github.com/ytyubox/iOSCamp_2019/blob/master/游諭內容：應用相關.playground/Pages/處理JSONError.png?raw=true)
