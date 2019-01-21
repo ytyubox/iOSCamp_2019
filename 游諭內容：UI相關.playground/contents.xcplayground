@@ -6,7 +6,8 @@
         <page name='view'/>
         <page name='Hello, world'/>
         <page name='自動約束'/>
-        <page name='表格自動調整高度'/>
         <page name='有索引的表格'/>
+        <page name='表格自動調整高度 未完成'/>
+        <page name='處理JSONError'/>
     </pages>
 </playground>
